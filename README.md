@@ -30,11 +30,16 @@ File Uploads: Multer
 
 Environment Config: dotenv
 
+Render base Url : https://delivery-api-xbr7.onrender.com
+
 API ENDPOINTS
+
 | Method | Endpoint           | Description                      
 | GET    | `/api/flowers`     : To get all flowers                  
 | POST   | `/api/flowers`     : To create a new flower image
 | DELETE | `/api/flowers/:id` : To Delete a flower by ID           
+
+
 
 
 Loom video :
