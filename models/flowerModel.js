@@ -1,10 +1,11 @@
 const mongoose = require("mongoose");
 
 const flowerSchema = new mongoose.Schema({
-  name: 'Rose',
-  description: 'Blush red',
-  price: 3,
-  category: 'Romance',
+  name: {type: String},
+  description:{type: String},
+  price: {type: Number},
+  category: {type: String},
+  image : {type: String}
 });
 
 const flower = mongoose.model("Flower", flowerSchema);
