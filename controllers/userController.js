@@ -7,7 +7,6 @@ const createToken = (id) => {
 
 exports.registerUser = async (req, res) => {
   try {
-    console.log( "error")
 
     const { name, email, password } = req.body;
 
