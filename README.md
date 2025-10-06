@@ -39,7 +39,7 @@ API ENDPOINTS
 | POST   | `/api/flowers`     : To create a new flower image
 | DELETE | `/api/flowers/:id` : To Delete a flower by ID           
 
+Loom Video Link : https://www.loom.com/share/065279c52ddd4a6486fb2cee07897d24?sid=34ff78e9-186a-4fbb-a9ab-9c0335de9618
 
 
-
-Loom video :
+Loom vid
